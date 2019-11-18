@@ -26,3 +26,9 @@
 
 
 ### Logic Flow Diagram
+
+___
+
+<p align="center">
+  <img src="TIR_3_Diagram.png" align=center width=900/><br>
+</p>
