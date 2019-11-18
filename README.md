@@ -15,12 +15,12 @@ This repository hosts the different paradigms you can run on AIM. Arduino is the
 
 Each page will have a logic flow diagram of the paradigm to aid the reader.
 
-* [**1. Port Habituation**](aa)
-* [**2. Continuous Cue Training:**](aa)
-* [**3. Random Forced Choice**](aa)
-* [**4. Trial Initiated Reward - Part 1**](aa)
-* [**5. Trial Initiated Reward - Part 2 (omission)**](aa)
-* [**6. Trial Initiated Reward - Part 3 (delay window)**](aa)
+* [**1. Port Habituation**](https://github.com/jhl0204/DNAMIC-Arduino-Software-Programs/tree/master/Port_Habituation_Multi_Btn)
+* [**2. Continuous Cue Training:**](https://github.com/jhl0204/DNAMIC-Arduino-Software-Programs/tree/master/Continous_Cue_Training)
+* [**3. Random Forced Choice**](https://github.com/jhl0204/DNAMIC-Arduino-Software-Programs/tree/master/Random_Forced_Choice)
+* [**4. Trial Initiated Reward - Part 1**](https://github.com/jhl0204/DNAMIC-Arduino-Software-Programs/tree/master/Trial_Initiated_Reward_Part_1)
+* [**5. Trial Initiated Reward - Part 2 (omission)**](https://github.com/jhl0204/DNAMIC-Arduino-Software-Programs/tree/master/Trial_Initiated_Reward_Part_2_omission)
+* [**6. Trial Initiated Reward - Part 3 (delay window)**](https://github.com/jhl0204/DNAMIC-Arduino-Software-Programs/tree/master/Trial_Initiated_Reward_Part_3_delay_window)
 
 NOT CURRENTLY USED
 
