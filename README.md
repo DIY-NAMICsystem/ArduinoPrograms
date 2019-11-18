@@ -1,6 +1,8 @@
 
 # AIM - Behavioral Paradigms
 
+##### Note: AIM is informally referred to as DNAMIC (Dartmouth Nautiyal Arduino Modular Instrumental Chamber) in the lab. Therefore I might use the two terms (AIM / DNAMIC) interchangeably to refer to the same thing.
+
 This is the second repository in a three-part series containing the behavioral paradigms of AIM. If you are new to Arduino Instrumental Modules (AIM), please consider visiting this [first repository](https://github.com/jhl0204/DNAMIC-Hardware-Documentations) introducing AIM and explaining the **hardware build instructions.** If you're interested in the data analysis portion of AIM, visit the [third repository](https://github.com/jhl0204/DNAMIC-Data-Analysis).  
 
 ___
