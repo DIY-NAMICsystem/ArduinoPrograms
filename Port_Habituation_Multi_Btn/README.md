@@ -14,3 +14,7 @@
 
 
 ### Logic Flow Diagram
+
+<p align="center">
+  <img src="PH_Diagram.png" align=center width=900/><br>
+</p>
