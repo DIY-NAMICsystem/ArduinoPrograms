@@ -9,23 +9,23 @@ ___
 
 ### Arduino Behavioral Paradigms
 
-This repository hosts the different paradigms you can run on AIM. Arduino is the control center of AIM, so essentially the paradigms are being run by Arduino microprocessors. The paradigms are written entirely in Arduino, which is based on C++. (Note however that the Arduino IDE environment is [different](https://forum.arduino.cc/index.php?topic=513643.0), so don't expect to use all the standard C/C++ features and libraries.)
+This repository hosts the different paradigms you can run on AIM. Arduino is the control center of AIM, so essentially the paradigms are being run by Arduino microprocessors. The paradigms are written entirely in Arduino, which is based on C++. (Note however that the Arduino IDE environment is [different](https://forum.arduino.cc/index.php?topic=513643.0), so don't expect all the standard C/C++ features and libraries to work in the IDE.)
 
 #####  Current Available paradigms
 
-Each page will have a short gif showing the paradigm and a logic flow diagram to aid the reader.
+Each page will have a logic flow diagram of the paradigm to aid the reader.
 
-* [**1. Port**](aa)
-* [**2. - :**](aa)
-* [**3.  - **](aa)
-* [**4. - **](aa)
-* [**5.  - **](aa)
-* [**6.  - **](aa)
-* [**7.  - **](aa)
-* [**8.  - **](aa)
-* [**9.  - **](aa)
-* [**10.  - **](aa)
+* [**1. Port Habituation**](aa)
+* [**2. Continuous Cue Training:**](aa)
+* [**3. Random Forced Choice**](aa)
+* [**4. Trial Initiated Reward - Part 1**](aa)
+* [**5. Trial Initiated Reward - Part 2 (omission)**](aa)
+* [**6. Trial Initiated Reward - Part 3 (delay window)**](aa)
 
+NOT CURRENTLY USED
+
+* [**7. Trial Initiated Reward - Variant 2 (Mid On)**](aa)
+* [**8. Trial Initiated Reward - Variant 3 (Mid Blink)**](aa)
 
 ### Development
 _____
@@ -33,7 +33,7 @@ _____
 ##### What to Contribute
 
 - Bugs or Errors in Code
-- Refactoring Current Code into a State Machine
+- Refactoring Current Code into a ***State Machine***
 - Any GUI (Graphical User Interface) Implementation to change simple parameters
 - Typos or grammar mistakes
 
