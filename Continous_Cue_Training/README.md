@@ -1,7 +1,6 @@
 
 # Paradigm: Continuous Cue
 
-___
 
 ### Simple Description
 
@@ -10,10 +9,10 @@ ___
 - Inter-trial Interval (ITI): 50ms
 - Cue stays on UNTIL mouse makes a response (nosepoke)
 
-### Logic Flow Diagram
-
-
 ### Key Metrics
 
 - Total Pokes
 - Number of Rewards Retrieved
+
+
+### Logic Flow Diagram
