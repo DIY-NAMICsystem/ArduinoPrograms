@@ -11,7 +11,7 @@ ___
 
 This repository hosts the different paradigms you can run on AIM. Arduino is the control center of AIM, so essentially the paradigms are being run by Arduino microprocessors. The paradigms are written entirely in Arduino, which is based on C++. (Note however that the Arduino IDE environment is [different](https://forum.arduino.cc/index.php?topic=513643.0), so don't expect all the standard C/C++ features and libraries to work in the IDE.)
 
-#####  Current Available paradigms
+####  Currently Available paradigms
 
 Each page will have a logic flow diagram of the paradigm to aid the reader.
 
