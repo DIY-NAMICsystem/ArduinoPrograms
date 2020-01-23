@@ -23,8 +23,8 @@ Each page will have a logic flow diagram of the programs to aid the reader.
 * [Program 5](https://github.com/NautiyalLab/DNAMIC-Arduino-Software-Programs/tree/January_Edits/Currently_Running/Program_5)
 * [Program 6](https://github.com/NautiyalLab/DNAMIC-Arduino-Software-Programs/tree/January_Edits/Currently_Running/Program_6)
 
-*Hardware Testing Program*
-[Cage Testing](https://github.com/NautiyalLab/DNAMIC-Arduino-Software-Programs/tree/January_Edits/Currently_Running/Cage_Flush)
+*Hardware Testing Program*   
+- [Cage Testing](https://github.com/NautiyalLab/DNAMIC-Arduino-Software-Programs/tree/January_Edits/Currently_Running/Cage_Flush) . 
 
 
 **NOT CURRENTLY USED**
