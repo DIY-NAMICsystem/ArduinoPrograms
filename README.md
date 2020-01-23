@@ -2,7 +2,7 @@
 # DNAMIC Part 2 - Behavioral Paradigms
 
 
-This is the second repository in a three-part series containing the behavioral paradigms of DNAMIC. If you are new to Arduino Instrumental Modules (AIM), please consider visiting this first repository introducing DNAMIC and explaining the [hardware build instructions]((https://github.com/jhl0204/DNAMIC-Hardware-Documentations). If you're interested in the data analysis portion of DNAMIC, visit the [data analysis repository](https://github.com/jhl0204/DNAMIC-Data-Analysis).  
+This is the second repository in a three-part series containing the behavioral paradigms of DNAMIC. If you are new to Dartmouth Nautiyal Arduino Modular Instrumental Conditioning (DNAMIC), please consider visiting this first repository introducing DNAMIC and explaining the [hardware build instructions](https://github.com/jhl0204/DNAMIC-Hardware-Documentations). If you're interested in the data analysis portion of DNAMIC, visit the [data analysis repository](https://github.com/jhl0204/DNAMIC-Data-Analysis).  
 
 ___
 
@@ -12,7 +12,9 @@ This repository hosts the different programs you can run on DNAMIC. Arduino is t
 
 ####  Currently Available Programs
 
-Each page will have a logic flow diagram of the paradigm to aid the reader.
+Each page will have a logic flow diagram of the programs to aid the reader.
+
+CURRENTLY RUNNING
 
 
 
