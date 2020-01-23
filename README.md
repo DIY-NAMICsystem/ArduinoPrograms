@@ -14,19 +14,20 @@ This repository hosts the different programs you can run on DNAMIC. Arduino is t
 
 Each page will have a logic flow diagram of the programs to aid the reader.
 
-CURRENTLY RUNNING
+***CURRENTLY RUNNING***
 
-* [Program 1](df)
+* [Program 1](https://github.com/NautiyalLab/DNAMIC-Arduino-Software-Programs/tree/January_Edits/Currently_Running/Program_1)
+* [Program 2](https://github.com/NautiyalLab/DNAMIC-Arduino-Software-Programs/tree/January_Edits/Currently_Running/Program_2)
+* [Program 3](https://github.com/NautiyalLab/DNAMIC-Arduino-Software-Programs/tree/January_Edits/Currently_Running/Program_3)
+* [Program 4](https://github.com/NautiyalLab/DNAMIC-Arduino-Software-Programs/tree/January_Edits/Currently_Running/Program_4)
+* [Program 5](https://github.com/NautiyalLab/DNAMIC-Arduino-Software-Programs/tree/January_Edits/Currently_Running/Program_5)
+* [Program 6](https://github.com/NautiyalLab/DNAMIC-Arduino-Software-Programs/tree/January_Edits/Currently_Running/Program_6)
 
-* [Program 2](df)
-* [Program 3](df)
-* [Program 4](df)
-* [Program 5](df)
-* [Program 6](df)
+*Hardware Testing Program*
+[Cage Testing](https://github.com/NautiyalLab/DNAMIC-Arduino-Software-Programs/tree/January_Edits/Currently_Running/Cage_Flush)
 
 
-
-NOT CURRENTLY USED
+**NOT CURRENTLY USED**
 
 
 * [1. Port Habituation](https://github.com/jhl0204/DNAMIC-Arduino-Software-Programs/tree/master/Port_Habituation_Multi_Btn)
