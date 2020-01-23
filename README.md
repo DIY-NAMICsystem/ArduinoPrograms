@@ -1,8 +1,8 @@
 
-# DNAMIC Part 2 - Behavioral Paradigms
+# DNAMIC Part 2 - Behavioral Programs
 
 
-This is the second repository in a three-part series containing the behavioral paradigms of DNAMIC. If you are new to Dartmouth Nautiyal Arduino Modular Instrumental Conditioning (DNAMIC), please consider visiting this first repository introducing DNAMIC and explaining the [hardware build instructions](https://github.com/jhl0204/DNAMIC-Hardware-Documentations). If you're interested in the data analysis portion of DNAMIC, visit the [data analysis repository](https://github.com/jhl0204/DNAMIC-Data-Analysis).  
+This is the second repository in a three-part series containing the behavioral programs of DNAMIC. If you are new to Dartmouth Nautiyal Arduino Modular Instrumental Conditioning (DNAMIC), please consider visiting this first repository introducing DNAMIC and explaining the [hardware build instructions](https://github.com/jhl0204/DNAMIC-Hardware-Documentations). If you're interested in the data analysis portion of DNAMIC, visit the [data analysis repository](https://github.com/jhl0204/DNAMIC-Data-Analysis).  
 
 ___
 
