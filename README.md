@@ -2,7 +2,7 @@
 # DNAMIC Part 2 - Behavioral Paradigms
 
 
-This is the second repository in a three-part series containing the behavioral paradigms of DNAMIC. If you are new to Arduino Instrumental Modules (AIM), please consider visiting this first repository introducing DNAMIC and explaining the [hardware build instructions]((https://github.com/jhl0204/DNAMIC-Hardware-Documentations). If you're interested in the data analysis portion of DNAMIC, visit the [data analysis repository](https://github.com/jhl0204/DNAMIC-Data-Analysis).  
+This is the second repository in a three-part series containing the behavioral paradigms of DNAMIC. If you are new to Dartmouth Nautiyal Arduino Modular Instrumental Conditioning (DNAMIC), please consider visiting this first repository introducing DNAMIC and explaining the [hardware build instructions](https://github.com/jhl0204/DNAMIC-Hardware-Documentations). If you're interested in the data analysis portion of DNAMIC, visit the [data analysis repository](https://github.com/jhl0204/DNAMIC-Data-Analysis).  
 
 ___
 
@@ -12,21 +12,32 @@ This repository hosts the different programs you can run on DNAMIC. Arduino is t
 
 ####  Currently Available Programs
 
-Each page will have a logic flow diagram of the paradigm to aid the reader.
+Each page will have a logic flow diagram of the programs to aid the reader.
+
+***CURRENTLY RUNNING***
+
+* [Program 1](https://github.com/NautiyalLab/DNAMIC-Arduino-Software-Programs/tree/January_Edits/Currently_Running/Program_1)
+* [Program 2](https://github.com/NautiyalLab/DNAMIC-Arduino-Software-Programs/tree/January_Edits/Currently_Running/Program_2)
+* [Program 3](https://github.com/NautiyalLab/DNAMIC-Arduino-Software-Programs/tree/January_Edits/Currently_Running/Program_3)
+* [Program 4](https://github.com/NautiyalLab/DNAMIC-Arduino-Software-Programs/tree/January_Edits/Currently_Running/Program_4)
+* [Program 5](https://github.com/NautiyalLab/DNAMIC-Arduino-Software-Programs/tree/January_Edits/Currently_Running/Program_5)
+* [Program 6](https://github.com/NautiyalLab/DNAMIC-Arduino-Software-Programs/tree/January_Edits/Currently_Running/Program_6)
+
+*Hardware Testing Program*   
+- [Cage Testing](https://github.com/NautiyalLab/DNAMIC-Arduino-Software-Programs/tree/January_Edits/Currently_Running/Cage_Flush) 
 
 
+**NOT CURRENTLY USED**
 
-NOT CURRENTLY USED
 
-
-* [**1. Port Habituation**](https://github.com/jhl0204/DNAMIC-Arduino-Software-Programs/tree/master/Port_Habituation_Multi_Btn)
-* [**2. Continuous Cue Training:**](https://github.com/jhl0204/DNAMIC-Arduino-Software-Programs/tree/master/Continous_Cue_Training)
-* [**3. Random Forced Choice**](https://github.com/jhl0204/DNAMIC-Arduino-Software-Programs/tree/master/Random_Forced_Choice)
-* [**4. Trial Initiated Reward - Part 1**](https://github.com/jhl0204/DNAMIC-Arduino-Software-Programs/tree/master/Trial_Initiated_Reward_Part_1)
-* [**5. Trial Initiated Reward - Part 2 (omission)**](https://github.com/jhl0204/DNAMIC-Arduino-Software-Programs/tree/master/Trial_Initiated_Reward_Part_2_omission)
-* [**6. Trial Initiated Reward - Part 3 (delay window)**](https://github.com/jhl0204/DNAMIC-Arduino-Software-Programs/tree/master/Trial_Initiated_Reward_Part_3_delay_window)
-* [**7. Trial Initiated Reward - Variant 2 (Mid On)**](aa)
-* [**8. Trial Initiated Reward - Variant 3 (Mid Blink)**](aa)
+* [1. Port Habituation](https://github.com/jhl0204/DNAMIC-Arduino-Software-Programs/tree/master/Port_Habituation_Multi_Btn)
+* [2. Continuous Cue Training:](https://github.com/jhl0204/DNAMIC-Arduino-Software-Programs/tree/master/Continous_Cue_Training)
+* [3. Random Forced Choice](https://github.com/jhl0204/DNAMIC-Arduino-Software-Programs/tree/master/Random_Forced_Choice)
+* [4. Trial Initiated Reward - Part 1](https://github.com/jhl0204/DNAMIC-Arduino-Software-Programs/tree/master/Trial_Initiated_Reward_Part_1)
+* [5. Trial Initiated Reward - Part 2 (omission)](https://github.com/jhl0204/DNAMIC-Arduino-Software-Programs/tree/master/Trial_Initiated_Reward_Part_2_omission)
+* [6. Trial Initiated Reward - Part 3 (delay window)](https://github.com/jhl0204/DNAMIC-Arduino-Software-Programs/tree/master/Trial_Initiated_Reward_Part_3_delay_window)
+* [7. Trial Initiated Reward - Variant 2 (Mid On)](aa)
+* [8. Trial Initiated Reward - Variant 3 (Mid Blink)](aa)
 
 ### Development
 _____
