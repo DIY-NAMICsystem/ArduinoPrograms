@@ -8,13 +8,12 @@ ___
 
 ### Arduino Behavioral Programs
 
-This repository hosts code for some behavioral paradigms that we have run with DIY-NAMIC. Arduino is the control center of DNAMIC, so essentially the programs are being run by Arduino microprocessors. The paradigms are written entirely in Arduino, which is based on C++. (Note however that the Arduino IDE environment is [different](https://forum.arduino.cc/index.php?topic=513643.0), so don't expect all the standard C/C++ features and libraries to work in the IDE.)
+This repository hosts code for some behavioral paradigms that we have run on DIY-NAMIC boxes which are controlled by an Arduino UNO. The paradigms are written in Arduino, which is based on C++. (Note however that the Arduino IDE environment is [different](https://forum.arduino.cc/index.php?topic=513643.0), so don't expect all the standard C/C++ features and libraries to work in the IDE.)
 
 ####  Currently Available Programs
 
 Each page will have a logic flow diagram of the programs to aid the reader.
 
-***CURRENTLY RUNNING***
 
 * [Program 1](https://github.com/NautiyalLab/DNAMIC-Arduino-Software-Programs/tree/January_Edits/Currently_Running/Program_1)
 * [Program 2](https://github.com/NautiyalLab/DNAMIC-Arduino-Software-Programs/tree/January_Edits/Currently_Running/Program_2)
