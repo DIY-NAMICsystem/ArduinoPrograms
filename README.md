@@ -1,14 +1,14 @@
 
-# DNAMIC Part 2 - Behavioral Programs
+# DIY-NAMIC Part 2 - Behavioral Programs
 
 
-This is the second repository in a three-part series containing the behavioral programs of DNAMIC. If you are new to Dartmouth Nautiyal Arduino Modular Instrumental Conditioning (DNAMIC), please consider visiting this first repository introducing DNAMIC and explaining the [hardware build instructions](https://github.com/jhl0204/DNAMIC-Hardware-Documentations). If you're interested in the data analysis portion of DNAMIC, visit the [data analysis repository](https://github.com/jhl0204/DNAMIC-Data-Analysis).  
+This is the second repository, in a three-part series, which contains code for behavioral programs which can be used with DIY-NAMIC boxes. This first repository includes build instructions for DIY-NAMIC [hardware build instructions](https://github.com/jhl0204/DNAMIC-Hardware-Documentations). The third repository has code to analyze the data generated from the DIY-NAMIC boxes [data analysis repository](https://github.com/jhl0204/DNAMIC-Data-Analysis).  
 
 ___
 
 ### Arduino Behavioral Programs
 
-This repository hosts the different programs you can run on DNAMIC. Arduino is the control center of DNAMIC, so essentially the programs are being run by Arduino microprocessors. The paradigms are written entirely in Arduino, which is based on C++. (Note however that the Arduino IDE environment is [different](https://forum.arduino.cc/index.php?topic=513643.0), so don't expect all the standard C/C++ features and libraries to work in the IDE.)
+This repository hosts code for some behavioral paradigms that we have run with DIY-NAMIC. Arduino is the control center of DNAMIC, so essentially the programs are being run by Arduino microprocessors. The paradigms are written entirely in Arduino, which is based on C++. (Note however that the Arduino IDE environment is [different](https://forum.arduino.cc/index.php?topic=513643.0), so don't expect all the standard C/C++ features and libraries to work in the IDE.)
 
 ####  Currently Available Programs
 
@@ -50,7 +50,7 @@ _____
 - Typos or grammar mistakes
 
 
-Feel free to open an issue or submit a pull request. All contributions are welcome! - there is no minor contribution. If you're unfamiliar with Github pull request workflow, feel free to email me with your contributions to jun.ho.lee@dartmouth.edu.
+Feel free to open an issue or submit a pull request or email jun.ho.lee@dartmouth.edu.
 
 
 ### Contributions and Thanks
@@ -60,4 +60,4 @@ A big thanks to the open **Arduino Forum** and the anonymous contributors on the
 
 #### Contact
 
-For any questions or issues, contact the main author, **Jun Ho Lee** at jun.ho.lee@dartmouth.edu or the corresponding author **Katherine Nautiyal** at katherine.nautiyal@dartmouth.edu.
+For any questions or issues **Jun Ho Lee** at jun.ho.lee@dartmouth.edu or **Katherine Nautiyal** at katherine.nautiyal@dartmouth.edu.
