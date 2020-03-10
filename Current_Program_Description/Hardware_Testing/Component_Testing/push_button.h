@@ -13,22 +13,22 @@ void activate_button() {
   // Read the state of the button
   buttonVal = digitalRead(button_pin);
 
-  // Test for button pressed and store the down time (when button is pressed) 
+  // Test for button pressed and store the down time (when button is pressed)
   if (buttonVal == LOW && buttonLast == HIGH && (millis() - btnUpTime) > long(debounce_time)) {
     btnDnTime = millis();
     }
 
-  // Test for button release and store the up time (when button is released) 
-  // Single Click! 
+  // Test for button release and store the up time (when button is released)
+  // Single Click!
   if (buttonVal == HIGH && buttonLast == LOW && (millis() - btnDnTime) > long(debounce_time)) {
-    // boolean needed for press and hold 
+    // boolean needed for press and hold
     if (hold_button == false) {
-      
-      // toggles on/off all the solenoids 
+
+      // toggles on/off all the solenoids
       for (byte i = 4; i <=6; i++) { digitalWrite(i, !digitalRead(i));}
-      
+
     }
-    
+
     else {
       hold_button = false;
       btnUpTime = millis();
@@ -36,9 +36,9 @@ void activate_button() {
   }
 
   // Test for button held down for longer than the hold time
-  // Press and Hold 
+  // Press and Hold
   if (buttonVal == LOW && (millis() - btnDnTime) > long(holdTime)) {
-      
+
       // toggles on/off all the LEDs
       for (byte i = 8; i <=10; i++) { digitalWrite(i, !digitalRead(i));}
       hold_button = true;
@@ -51,23 +51,23 @@ void activate_button() {
 
 
 
-// Once button pressed and held, will toggle LED on and off continously, 
-// since btnDnTime is going to get updated only once when 
-// "(millis() - btnDnTime) > long(holdTime)" evaluates to True. 
+// Once button pressed and held, will toggle LED on and off continously,
+// since btnDnTime is going to get updated only once when
+// "(millis() - btnDnTime) > long(holdTime)" evaluates to True.
 
 // --> btnDnTime won't be updated every cycle because it will not go inside the if clause
-// unless the time component evaluates to True, which happens every "holdTime" cycle. 
+// unless the time component evaluates to True, which happens every "holdTime" cycle.
 
 
 
 /* Additional Functions Below
- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
- 
-1. button_push() function turns on solenoid as long as the button is pressed down!! 
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+1. button_push() function turns on solenoid as long as the button is pressed down!!
 2. and turns off solenoid when button released
 3. (it is NOT toggle)
 
- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
 
 void button_push() {
@@ -106,6 +106,6 @@ void button_push() {
 
     }  // end of state change
 
-} // end of button_push() 
+} // end of button_push()
 
-*/ 
+*/
