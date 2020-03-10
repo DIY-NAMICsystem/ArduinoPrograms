@@ -24,7 +24,7 @@ Each page will have a logic flow diagram of the programs to aid the reader.
 
 *Hardware Testing Program*   
 - [Cage Testing](https://github.com/NautiyalLab/DIY-NAMIC-Arduino-Software-Programs/tree/master/Current_Program_Description/Cage_Flush)
-- [Component Testing]()
+- [Component Testing](https://github.com/NautiyalLab/DIY-NAMIC-Arduino-Software-Programs/tree/master/Current_Program_Description/Hardware_Testing)
 
 **NOT CURRENTLY USED**
 
