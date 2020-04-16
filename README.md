@@ -16,15 +16,16 @@ Each page will have a logic flow diagram of the programs to aid the reader.
 
 
 * [Program 1](https://github.com/DIY-NAMICsystem/ArduinoPrograms/tree/master/Programs_for_behavioral_paradigms/P1)
-* [Program 2](https://github.com/NautiyalLab/DIY-NAMIC-Arduino-Software-Programs/tree/master/Current_Program_Description/Program_2)
-* [Program 3](https://github.com/NautiyalLab/DIY-NAMIC-Arduino-Software-Programs/tree/master/Current_Program_Description/Program_3)
-* [Program 4](https://github.com/NautiyalLab/DIY-NAMIC-Arduino-Software-Programs/tree/master/Current_Program_Description/Program_4)
-* [Program 5](https://github.com/NautiyalLab/DIY-NAMIC-Arduino-Software-Programs/tree/master/Current_Program_Description/Program_5)
-* [Program 6](https://github.com/NautiyalLab/DIY-NAMIC-Arduino-Software-Programs/tree/master/Current_Program_Description/Program_6)
+* [Program 2](https://github.com/DIY-NAMICsystem/ArduinoPrograms/tree/master/Programs_for_behavioral_paradigms/P2)
+* [Program 3](https://github.com/DIY-NAMICsystem/ArduinoPrograms/tree/master/Programs_for_behavioral_paradigms/P3)
+* [Program 4](https://github.com/DIY-NAMICsystem/ArduinoPrograms/tree/master/Programs_for_behavioral_paradigms/P4)
+* [Program 5](https://github.com/DIY-NAMICsystem/ArduinoPrograms/tree/master/Programs_for_behavioral_paradigms/P5)
+* [Program 5b](https://github.com/DIY-NAMICsystem/ArduinoPrograms/tree/master/Programs_for_behavioral_paradigms/P5b)
+* [Program 6](https://github.com/DIY-NAMICsystem/ArduinoPrograms/tree/master/Programs_for_behavioral_paradigms/P6)
 
 *Hardware Testing Program*   
-- [Cage Testing](https://github.com/DIY-NAMICsystem/-Arduino-Software-Programs/tree/master/Current_Program_Description/Cage_Flush)
-- [Component Testing](https://github.com/NautiyalLab/DIY-NAMIC-Arduino-Software-Programs/tree/master/Current_Program_Description/Hardware_Testing)
+- [Cage Testing](https://github.com/DIY-NAMICsystem/ArduinoPrograms/tree/master/Programs_for_behavioral_paradigms/Cage_Flush)
+- [Component Testing](https://github.com/DIY-NAMICsystem/ArduinoPrograms/tree/master/Programs_for_behavioral_paradigms/Hardware_Testing)
 
 
 ### Development
