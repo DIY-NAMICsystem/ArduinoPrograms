@@ -1,5 +1,5 @@
 
-# DIY-NAMIC Part 2 - Behavioral Programs
+# DIY-NAMIC Behavioral Programs
 
 
 This is the second repository, in a three-part series, which contains code for behavioral programs which can be used with DIY-NAMIC boxes. This first repository includes build instructions for DIY-NAMIC [hardware build instructions](https://github.com/NautiyalLab/DIY-NAMIC-Hardware-Documentations). The third repository has code to analyze the data generated from the DIY-NAMIC boxes [data analysis repository](https://github.com/NautiyalLab/DIY-NAMIC-Data-Analysis).  
