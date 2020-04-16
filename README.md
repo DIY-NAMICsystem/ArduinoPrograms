@@ -15,7 +15,7 @@ This repository hosts code for some behavioral paradigms that we have run on DIY
 Each page will have a logic flow diagram of the programs to aid the reader.
 
 
-* [Program 1](https://github.com/DIY-NAMICsystem/ArduinoPrograms/tree/master/Current_Program_Description/Program_1)
+* [Program 1](https://github.com/DIY-NAMICsystem/ArduinoPrograms/Programs for behavioral paradigms/P1)
 * [Program 2](https://github.com/NautiyalLab/DIY-NAMIC-Arduino-Software-Programs/tree/master/Current_Program_Description/Program_2)
 * [Program 3](https://github.com/NautiyalLab/DIY-NAMIC-Arduino-Software-Programs/tree/master/Current_Program_Description/Program_3)
 * [Program 4](https://github.com/NautiyalLab/DIY-NAMIC-Arduino-Software-Programs/tree/master/Current_Program_Description/Program_4)
