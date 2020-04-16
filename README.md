@@ -24,8 +24,8 @@ Each page will have a logic flow diagram of the programs to aid the reader.
 * [Program 6](https://github.com/DIY-NAMICsystem/ArduinoPrograms/tree/master/Programs_for_behavioral_paradigms/P6)
 
 *Hardware Testing Program*   
-- [Cage Testing](https://github.com/DIY-NAMICsystem/ArduinoPrograms/tree/master/Programs_for_behavioral_paradigms/Cage_Flush)
-- [Component Testing](https://github.com/DIY-NAMICsystem/ArduinoPrograms/tree/master/Programs_for_behavioral_paradigms/Hardware_Testing)
+- [Cage Testing](https://github.com/DIY-NAMICsystem/ArduinoPrograms/tree/master/Test_Programs/Cage_Flush)
+- [Component Testing](https://github.com/DIY-NAMICsystem/ArduinoPrograms/tree/master/Test_Programs/Component_Testing)
 
 
 ### Development
