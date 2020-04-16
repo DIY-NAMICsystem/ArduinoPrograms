@@ -2,7 +2,7 @@
 # DIY-NAMIC Behavioral Programs
 
 
-This is the second repository, in a three-part series, which contains code for behavioral programs which can be used with DIY-NAMIC boxes. This first repository includes build instructions for DIY-NAMIC [hardware build instructions](https://github.com/NautiyalLab/DIY-NAMIC-Hardware-Documentations). The third repository has code to analyze the data generated from the DIY-NAMIC boxes [data analysis repository](https://github.com/NautiyalLab/DIY-NAMIC-Data-Analysis).  
+This is the second repository, in a three-part series, which contains code for behavioral programs which can be used with DIY-NAMIC boxes. This first repository includes build instructions for DIY-NAMIC [hardware build instructions](https://github.com/DIY-NAMICsystem/Hardware-Documentation). The third repository has code to analyze the data generated from the DIY-NAMIC boxes [data analysis repository](https://github.com/DIY-NAMICsystem/Data-Analysis).  
 
 ___
 
@@ -15,7 +15,7 @@ This repository hosts code for some behavioral paradigms that we have run on DIY
 Each page will have a logic flow diagram of the programs to aid the reader.
 
 
-* [Program 1](https://github.com/NautiyalLab/DIY-NAMIC-Arduino-Software-Programs/tree/master/Current_Program_Description/Program_1)
+* [Program 1](https://github.com/DIY-NAMICsystem/ArduinoPrograms/tree/master/Current_Program_Description/Program_1)
 * [Program 2](https://github.com/NautiyalLab/DIY-NAMIC-Arduino-Software-Programs/tree/master/Current_Program_Description/Program_2)
 * [Program 3](https://github.com/NautiyalLab/DIY-NAMIC-Arduino-Software-Programs/tree/master/Current_Program_Description/Program_3)
 * [Program 4](https://github.com/NautiyalLab/DIY-NAMIC-Arduino-Software-Programs/tree/master/Current_Program_Description/Program_4)
@@ -23,7 +23,7 @@ Each page will have a logic flow diagram of the programs to aid the reader.
 * [Program 6](https://github.com/NautiyalLab/DIY-NAMIC-Arduino-Software-Programs/tree/master/Current_Program_Description/Program_6)
 
 *Hardware Testing Program*   
-- [Cage Testing](https://github.com/NautiyalLab/DIY-NAMIC-Arduino-Software-Programs/tree/master/Current_Program_Description/Cage_Flush)
+- [Cage Testing](https://github.com/DIY-NAMICsystem/-Arduino-Software-Programs/tree/master/Current_Program_Description/Cage_Flush)
 - [Component Testing](https://github.com/NautiyalLab/DIY-NAMIC-Arduino-Software-Programs/tree/master/Current_Program_Description/Hardware_Testing)
 
 
